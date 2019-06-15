@@ -1,0 +1,42 @@
+# Frontend Domains (Random Selection)
+#
+# hostname
+# hostname:80
+# hostname:443
+
+# iflix
+#
+#server4-1.operamini.com:80
+#video.iflix.com
+#videocdn-2.iflix.com
+
+#106.subnet118-98-95.astinet.telkom.net.id
+#
+
+#118.98.95.106:443
+
+#cdn-obs.line-apps.com:80
+
+23.49.60.48:443
+
+#lg-borne-ppp.line-scdn.net:443
+
+#stickershop.line-scdn.net:80
+
+#13.33.193.75:443
+
+#157.240.7.53:80
+
+#35.190.27.84:80
+
+#13.33.186.173:80
+
+#13.33.186.176:80
+
+#appipv4.link:80
+
+#appipv4.link:443
+
+#118.98.95.242
+
+#118.98.95.175
